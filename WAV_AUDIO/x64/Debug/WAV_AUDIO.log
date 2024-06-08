@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\vesel\Desktop\WAV_AUDIO\WAV_AUDIO\Source.cpp(14,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vesel\Desktop\WAV_AUDIO\WAV_AUDIO\Source.cpp(59,23): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\vesel\Desktop\WAV_AUDIO\WAV_AUDIO\Source.cpp(69,24): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  WAV_AUDIO.vcxproj -> C:\Users\vesel\Desktop\WAV_AUDIO\x64\Debug\WAV_AUDIO.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
